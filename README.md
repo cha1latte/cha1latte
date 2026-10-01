@@ -1,8 +1,9 @@
 ### Hi, I'm Chai 👋
 
-SEO and content strategist who builds AI tools on the side: skills for AI assistants and tabletop RPG tooling. Currently contributing to De-Koi.
+SEO and content strategist who builds AI tools on the side: skills for AI assistants and tabletop RPG tooling.
 
 **Current projects**
+- [De-Koi](https://github.com/The-Koi-Pond/De-Koi): a local-first AI chat, roleplay, and game engine (Tauri, React, TypeScript, Rust). I maintain the project.
 - [campaign-writer](https://github.com/cha1latte/campaign-writer): describe the adventure you want, get the whole book (GM PDF, maps, handouts, pregens, balanced fights)
 - [familiar-campaign-prep](https://github.com/cha1latte/familiar-campaign-prep): turn a premade adventure into a Foundry VTT world your Familiar AI GM can run
 
